@@ -12,4 +12,4 @@ print(ksorted(points,(62,3),3))
 昭昭明月，若水三千
 人生苦短，我爱Python
 '''
-
+不清楚其他语言的实现，但Python正是太完美了，利用tuple的排序特性，加上lambda和切片。完美的化简了问题！
